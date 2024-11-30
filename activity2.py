@@ -1,0 +1,11 @@
+e=1
+f=1.6
+z=True
+j="welcome"
+print(type(e))
+print(type(f))
+print(type(z))
+print(type(j))
+f=int(f)
+print(f)
+print(type(f))
